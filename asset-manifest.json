@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FitnessClubWebsite.git/static/css/main.e661641a.css",
+    "main.js": "/FitnessClubWebsite.git/static/js/main.08a94f9c.js",
+    "static/media/image2.jpg": "/FitnessClubWebsite.git/static/media/image2.294435737a01e6dc51dd.jpg",
+    "static/media/image1.jpg": "/FitnessClubWebsite.git/static/media/image1.201cf01f84ec70b3ab95.jpg",
+    "static/media/t-image3.jpg": "/FitnessClubWebsite.git/static/media/t-image3.d272300b48c5b8feb263.jpg",
+    "static/media/image4.jpg": "/FitnessClubWebsite.git/static/media/image4.90c4c3a7c6ccd8201a09.jpg",
+    "static/media/t-image1.jpg": "/FitnessClubWebsite.git/static/media/t-image1.c12bdf9f489088f9a505.jpg",
+    "static/media/hero_image.png": "/FitnessClubWebsite.git/static/media/hero_image.e19ac0c6b1009c7280f5.png",
+    "static/media/image3.png": "/FitnessClubWebsite.git/static/media/image3.2c0d30b9ce1579eb1109.png",
+    "static/media/t-image2.jpg": "/FitnessClubWebsite.git/static/media/t-image2.f5d2e52e514c544dfffb.jpg",
+    "static/media/hero_image_back.png": "/FitnessClubWebsite.git/static/media/hero_image_back.9f54bfba33048f4ca688.png",
+    "index.html": "/FitnessClubWebsite.git/index.html",
+    "main.e661641a.css.map": "/FitnessClubWebsite.git/static/css/main.e661641a.css.map",
+    "main.08a94f9c.js.map": "/FitnessClubWebsite.git/static/js/main.08a94f9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e661641a.css",
+    "static/js/main.08a94f9c.js"
+  ]
+}
